@@ -67,7 +67,7 @@
     }
 
     if(out==1){
-      alert("termina");
+      //alert("termina");
       end();
     }
   }
